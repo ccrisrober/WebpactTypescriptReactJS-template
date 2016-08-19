@@ -23,7 +23,7 @@ var config = {
    * in your code.
    */
   resolve: {
-    extensions: ["", ".ts", ".tsx", ".js"]
+    extensions: ["", ".ts", ".tsx", ".js", ".jsx"]
   },
 
   module: {
