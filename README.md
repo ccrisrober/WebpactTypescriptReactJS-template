@@ -15,3 +15,9 @@ $ tsd install <library> --save
 ```bash
 $ npm install <library> --save
 ```
+
+## Compile
+```bash
+webpack
+wepack --watch # Watch resources
+```
