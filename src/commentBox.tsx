@@ -1,5 +1,5 @@
 // TODO: http://staxmanade.com/2015/08/playing-with-typescript-and-jsx/
-
+/*
 import * as React from "react";
 
 var CommentForm = React.createClass({
@@ -84,4 +84,4 @@ var CommentBox = React.createClass({
     );
   }
 });
-export default CommentBox;
+export default CommentBox;*/

@@ -9,7 +9,7 @@ import * as $ from "jquery";
 
 import Hello from "./Hello";
 //import CommentBox from "./CommentBox"
-import CommentBox from "./CommentBox";
+// import CommentBox from "./CommentBox";
 
 ReactDOM.render(
 	<Hello name="Willson" data="[1, 2, 3, 4]" />,
@@ -23,11 +23,11 @@ var data = [
   {id: 3, author: "Luke Skywalker", text: "I´m not your children ..."}
 ];
 
-
+/*
 ReactDOM.render(
 	<CommentBox data={data}/>,
 	document.getElementById("root2")
-);
+);*/
 
 $(() => {
 	// jQuery example

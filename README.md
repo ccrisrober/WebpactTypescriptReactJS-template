@@ -18,6 +18,7 @@ $ npm install <library> --save
 
 ## Compile
 ```bash
+$ npm install # Only first time
 webpack
 wepack --watch # Watch resources
 ```
